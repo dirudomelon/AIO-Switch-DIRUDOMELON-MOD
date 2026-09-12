@@ -1,0 +1,62 @@
+{
+  "Castlevania: Symphony of the Night": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/sotn.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sotn.png"
+  },
+  "Super Mario World Remastered": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smw.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smw.png"
+  },
+  "Super Mario Bros Remastered": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/smbr.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/smbx.png"
+  },
+  "Driver 2": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Drv2.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/d2.png"
+  },
+  "Geometry Dash": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/gdash.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gdash.png"
+  },
+  "Banjo Kazooie": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/banjk.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/banjk.png"
+  },
+  "Hitman Go": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/hitmango.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/hitmango.png"
+  },
+  "Bully": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bull.png"
+  },
+  "Grand Theft Auto: San Andreas": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/g54.png"
+  },
+  "Grand Theft Auto: Chinatown Wars": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtacw.png"
+  },
+  "Grand Theft Auto: Liberty City Stories": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtalcs.png"
+  },
+  "Silent Hill": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/SH.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/sh.png"
+  },
+  "Animal Crossing: Pocket Camp": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/acpc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/acpc.png"
+  },
+  "After Burner Climax": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/abc.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/abc.png"
+  },
+  "Crazy Taxi": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crt.png"
+  }
+}
